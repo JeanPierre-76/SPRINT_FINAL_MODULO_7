@@ -1,0 +1,11 @@
+"id";"nombre";"precio";"categoria";"proveedor";"color";"stock"
+1;"arroz";1500.0;"cereales";"tucapel";"blanco";2000
+2;"leche";1200.0;"lacteos";"colun";"blanco";3000
+3;"azucar";1000.0;"abarrotes";"iansa";"blanco";1000
+4;"choritos";1500.0;"mariscos";"angelmo";"cafe";2000
+5;"espirales";1000.0;"electronica y computacion";"carozzi";"beige";1000
+6;"tallarines";1000.0;"electronica y computacion";"carozzi";"beige";1000
+7;"cholgas";1500.0;"mariscos";"angelmo";"cafe";1500
+8;"stevia";4000.0;"abarrotes";"iansa";"blanco";2000
+9;"corbatas";1000.0;"electronica y computacion";"carozzi";"beige";1000
+10;"mantequilla";3000.0;"lacteos";"colun";"amarillo";1000
